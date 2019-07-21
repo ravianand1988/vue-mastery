@@ -1,0 +1,64 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "date": "Aug 15 2019",
+      "time": "14:00",
+      "title": "Team event",
+      "location": "Daytona Park",
+      "organiser": "Jens Grudno",
+      "category": "team building",
+      "description": "office team event!!",
+      "attendees": [
+        {
+          "id": 1,
+          "name": "Ravi Anand"
+        },
+        {
+          "id": 1,
+          "name": "Fred Tucker"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "Aug 11 2019",
+      "time": "15:00",
+      "title": "Beach Clean-up",
+      "location": "Daytona Park",
+      "organiser": "Jens Grudno",
+      "category": "team building",
+      "description": "office team event!!",
+      "attendees": [
+        {
+          "id": 1,
+          "name": "Ravi Anand"
+        },
+        {
+          "id": 1,
+          "name": "Fred Tucker"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "date": "Aug 19 2019",
+      "time": "16:00",
+      "title": "NBT Summer Party",
+      "location": "Daytona Park",
+      "organiser": "Jens Grudno",
+      "category": "team building",
+      "description": "office team event!!",
+      "attendees": [
+        {
+          "id": 1,
+          "name": "Ravi Anand"
+        },
+        {
+          "id": 1,
+          "name": "Fred Tucker"
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 # vue-mastery
+> A vue project to follow along vue mastery course and explore vue best practices.
 
 ## Project setup
 ```

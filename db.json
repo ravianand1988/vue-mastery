@@ -59,6 +59,63 @@
           "name": "Fred Tucker"
         }
       ]
+    },
+    {
+      "doneTodos": [],
+      "activeTodosCount": 0,
+      "id": 4
+    },
+    {
+      "doneTodos": [],
+      "activeTodosCount": 0,
+      "id": 5
+    },
+    {
+      "id": 8507,
+      "category": "",
+      "organiser": "ravi",
+      "title": "Sleep now",
+      "description": "it's too late to study!!",
+      "date": "2019-07-25",
+      "time": "08:35",
+      "attendees": [
+        null
+      ],
+      "location": "home"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "title": "learn vuex",
+      "status": "active",
+      "assigne": "Ravi",
+      "Reporter": "Pedero Silva",
+      "Date": "31.07.19"
+    },
+    {
+      "id": 2,
+      "title": "learn vue cache",
+      "status": "not started",
+      "assigne": "Ravi",
+      "Reporter": "Pedero Silva",
+      "Date": "31.07.19"
+    },
+    {
+      "id": 3,
+      "title": "learn Vue real world",
+      "status": "done",
+      "assigne": "Ravi",
+      "Reporter": "Pedero Silva",
+      "Date": "31.07.19"
+    },
+    {
+      "id": 4,
+      "title": "Django basics",
+      "status": "done",
+      "assigne": "Ravi",
+      "Reporter": "Pedero Silva",
+      "Date": "31.07.19"
     }
   ]
 }

@@ -13,7 +13,9 @@
     </v-btn>
 
     <div id="nav">
-      <router-link :to="{name: 'events'}">All Events!!</router-link>
+      <router-link :to="{name: 'events'}">Events!!</router-link>
+      |
+      <router-link :to="{name: 'todos'}">Todos</router-link>
       |
       <router-link :to="{name: 'event-create'}">Create Event</router-link>
       |

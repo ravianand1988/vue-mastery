@@ -15,5 +15,14 @@ export default {
   },
   getEvent (id) {
     return apiClient.get(`/events/${id}`)
+  },
+  addEvent (event) {
+    return apiClient.post('/events', event)
+  },
+  getTodos () {
+    return apiClient.get('/todos')
+  },
+  getTodo (id) {
+    return apiClient.get(`/todos/${id}`)
   }
 }

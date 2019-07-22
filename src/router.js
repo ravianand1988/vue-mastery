@@ -32,6 +32,11 @@ export default new Router({
       name: 'user',
       component: () => import(/* webpackChunkName: "about" */ './views/User'),
       props: true
+    },
+    {
+      path: '/todos',
+      name: 'todos',
+      component: () => import('./views/Todos')
     }
   ]
 })
